@@ -4,9 +4,9 @@
 [1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Описание проекта)
 [2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Какой кейс решаем)
 [3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Описание проекта)
-[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Описание проекта)
-[5. Результат](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Описание проекта)
-[6. Выводы](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Описание проекта)
+[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Этапы работы над проектом)
+[5. Результат](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Результат)
+[6. Выводы](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
