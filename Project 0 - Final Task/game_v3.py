@@ -37,7 +37,7 @@ def score_game(random_predict) -> int:
         int: average amount of tries
     """
     count_ls = [] # list where we store tries
-    #np.random.seed(1) # seed fix
+    np.random.seed(1) # seed fix
     random_array = np.random.randint(1,101, size = (1000))
     
     for number in random_array:
