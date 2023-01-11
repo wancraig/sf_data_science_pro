@@ -1,17 +1,17 @@
 # Проект 0 - Финал. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Данные)
+[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Данные)
 
-[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Результат)
+[5. Результат](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Результат)
 
-[6. Выводы](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Выводы)
+[6. Выводы](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за меньше чем 20 попыток.
