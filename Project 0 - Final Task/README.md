@@ -1,17 +1,17 @@
 # Проект 0 - Финал. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Описание-проекта)
+[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Данные)
+[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Данные)
 
-[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#)
+[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#)
 
-[5. Результат](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Результат)
+[5. Результат](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Результат)
 
-[6. Выводы](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200#Выводы)
+[6. Выводы](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за меньше чем 20 попыток.
@@ -33,4 +33,4 @@
 Получен результат, число попыток < 20. Однако уверенности что алгоритм программы модицирцирован верно нет, так как применяемая конструкция обрубает и перезапускает угадывание, если количество попыток превышает 20. Возможно на данном этапе есть другие альтернативы?
 
 ### Выводы
-Работа над проектом позволила закрепить начало работы с модулем numpy, а также освоить азы работы с GitHub
+Работа над проектом позволила закрепить начало работы с модулем numpy, а также освоить азы работы с GitHub и IDE Microsoft Visual Studio
