@@ -7,7 +7,7 @@
 
 [3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Данные)
 
-[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#)
+[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Этапы-работы-над-проектом)
 
 [5. Результат](https://github.com/wancraig/sf_data_science_pro/blob/main/Project%200%20-%20Final%20Task/README.md#Результат)
 
