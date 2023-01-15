@@ -13,16 +13,19 @@ def random_predict (number: int = np.random.randint(1, 101)) -> int:
         int: amount of guesses
     """
     count = 0
-    predict = np.random.randint(1, 101)
-    
-    while number != predict:
-        while count < 20:
-            count += 1
-            if number > predict:
-                predict += 1
-            elif number < predict:
-                predict -= 1
-        break
+    start = 1
+    stop = 100
+    while True:
+        count += 1
+        predict_num = (start + stop) // 2
+        if predict_num == number:
+            break
+        elif predict_num > number:
+            stop = predict_num
+        else:
+            start = predict_num
+        if count > 20:
+            break
     return count
     
 
@@ -37,7 +40,7 @@ def score_game(random_predict) -> int:
         int: average amount of tries
     """
     count_ls = [] # list where we store tries
-    np.random.seed(1) # seed fix
+    #np.random.seed(1) # seed fix
     random_array = np.random.randint(1,101, size = (1000))
     
     for number in random_array:
