@@ -107,7 +107,3 @@ print(groups[3]) # ['Petrov', 'Markov']
 #print(client.most_common(2))
 
 #print(len(list(client)))
-
-
-
-
