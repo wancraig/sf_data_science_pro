@@ -1,17 +1,17 @@
 # Проект 1 - Анализ базы данных резюме HeadHunter.ru
 
 ## Оглавление
-[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Описание-проекта)
+[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Данные)
+[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#Данные)
 
-[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Результат)
+[5. Результат](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#Результат)
 
-[6. Выводы](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%200%20-%20Final%20Task#Выводы)
+[6. Выводы](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#Выводы)
 
 ### Описание проекта
 Попробовать себя в роли junior data analyst, поработать с "сырыми" данными компании HeadHunter.ru
@@ -31,7 +31,7 @@
 
 ### Результат
 Данные загруженны в data frame, проведен базовый анализ структуры. Далее самым сложным этапом было преобразование данных: уровень образование приведен к единому упрощенному формату, созданы новые столбцы "Пол" и "Возраст", опыт работы приведен к количеству месяцев стажа, создана колонка "Город" с выборочной классификацией по топ городам, созданые колонки в целях оценки кандидата по "Готовности к командировкам" и "Готовности к переездам", преобразованы в более упрощенные признаки "Занятость" и "График", столбец "Зарплата" с помощью манипуляций и внешнего дополнительного источника курса валют приведен к ЗП в рублях.
-В качестве финала проведено построение серии графиков и статистических таблиц в целях выявления аномалий и их устранений, а также удаление дубликатов 
+В качестве финала проведено построение серии графиков и статистических таблиц в целях выявления аномалий и их устранений, а также удаление дубликатов.
 
 
 ### Выводы
