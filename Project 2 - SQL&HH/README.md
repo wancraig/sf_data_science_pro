@@ -1,17 +1,17 @@
 # Проект 2 - Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0#Описание-проекта)
+[1. Описание проекта](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%202%20-%20SQL%26HH#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%202%20-%20SQL%26HH#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0#Данные)
+[3. Краткая информация о данных](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%202%20-%20SQL%26HH#Данные)
 
-[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%202%20-%20SQL%26HH#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0#Результат)
+[5. Результат](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%202%20-%20SQL%26HH#Результат)
 
-[6. Выводы](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%201%20-%20HeadHunter%20vacancies%20analysis#%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0#Выводы)
+[6. Выводы](https://github.com/wancraig/sf_data_science_pro/tree/main/Project%202%20-%20SQL%26HH#Выводы)
 
 ### Описание проекта
 Попробовать себя в качестве сотрудника кадрового агентства, которое подбирает вакансии для IT-специалистов. Провести первичный анализ БД, понять, что из себя представляют данные и насколько они соответствуют целям проекта. 
